@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App .survey-main-button{
+  background-color: #af5f46;
+  width: 150px;
+  margin: 20px;
+  border: none;
+  padding: 10px;
+}
+.App .question-container{
+  margin: 20px;
+  width: 400px;
+}
+.App .question-container .input-grp{
+  margin-bottom: 5px;
+}
+.App .question-container .options-text{
+  margin-bottom: 5px;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 5px;
+  font-weight: bold;
+}
